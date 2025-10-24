@@ -1,2 +1,2 @@
-email :
-gitID :
+email : idjkda4034@gmail.com
+gitID : gyunnybot
