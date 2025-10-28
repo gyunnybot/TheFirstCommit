@@ -1,2 +1,2 @@
 email : idjkda@naver.com
-gitID : 깃아이디를 입력해주세요
+gitID : gyunnybot
